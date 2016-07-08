@@ -1,0 +1,48 @@
+@model br.com.engsoft.Models.Frete
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Frete</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.descricao)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.descricao)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.cliente.nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.cliente.nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.cidade.nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.cidade.nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.peso)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.peso)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.valor)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.valor)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.codigo_frete">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

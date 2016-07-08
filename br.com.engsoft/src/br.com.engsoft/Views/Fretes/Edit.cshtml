@@ -1,0 +1,64 @@
+@model br.com.engsoft.Models.Frete
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+
+<form asp-action="Edit">
+    <div class="form-horizontal">
+        <h4>Frete</h4>
+        <hr />
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" asp-for="codigo_frete" />
+        <div class="form-group">
+            <label asp-for="descricao" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="descricao" class="form-control" />
+                <span asp-validation-for="descricao" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="peso" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="peso" class="form-control" />
+                <span asp-validation-for="peso" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="valor" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="valor" class="form-control" />
+                <span asp-validation-for="valor" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="valor" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="cliente.nome" class="form-control" />
+                <span asp-validation-for="cliente.nome" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="valor" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="cidade.nome" class="form-control" />
+                <span asp-validation-for="cidade.nome" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

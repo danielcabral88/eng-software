@@ -1,0 +1,6 @@
+C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\br.com.engsoft.test\bin\Debug\br.com.engsoft.test.dll
+C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\br.com.engsoft.test\bin\Debug\br.com.engsoft.test.pdb
+C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\br.com.engsoft.test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\br.com.engsoft.test\obj\Debug\br.com.engsoft.test.csprojResolveAssemblyReference.cache
+C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\br.com.engsoft.test\obj\Debug\br.com.engsoft.test.dll
+C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\br.com.engsoft.test\obj\Debug\br.com.engsoft.test.pdb
