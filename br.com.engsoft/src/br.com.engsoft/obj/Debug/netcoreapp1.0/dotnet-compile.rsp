@@ -1,5 +1,5 @@
---temp-output:C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\obj\Debug\netcoreapp1.0\
---out:C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\bin\Debug\netcoreapp1.0\br.com.engsoft.dll
+--temp-output:C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\obj\Debug\netcoreapp1.0\
+--out:C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\bin\Debug\netcoreapp1.0\br.com.engsoft.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -245,53 +245,54 @@
 --reference:C:\Users\INFORMÁT\.nuget\packages\System.Xml.XDocument\4.0.11-rc2-24027\ref\netstandard1.3\System.Xml.XDocument.dll
 --reference:C:\Users\INFORMÁT\.nuget\packages\System.Xml.XmlDocument\4.0.1-rc2-24027\ref\netstandard1.3\System.Xml.XmlDocument.dll
 --reference:C:\Users\INFORMÁT\.nuget\packages\System.Xml.XmlSerializer\4.0.11-beta-23225\ref\dotnet\System.Xml.XmlSerializer.dll
---resource:"C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\obj\Debug\netcoreapp1.0\br.com.engsoftdotnet-compile.deps.json",br.com.engsoft.deps.json
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\IApplicationDbContext.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Program.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Startup.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Controllers\AccountController.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Controllers\CidadesController.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Controllers\ClientesController.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Controllers\FretesController.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Controllers\HomeController.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Controllers\ManageController.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Data\ApplicationDbContext.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Data\Migrations\00000000000000_CreateIdentitySchema.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Data\Migrations\00000000000000_CreateIdentitySchema.Designer.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Data\Migrations\20160705041501_br.com.engsoft.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Data\Migrations\20160705041501_br.com.engsoft.Designer.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Data\Migrations\20160705233928_dbmvcrepository.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Data\Migrations\20160705233928_dbmvcrepository.Designer.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Data\Migrations\20160706011141_05-07-2016.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Data\Migrations\20160706011141_05-07-2016.Designer.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Data\Migrations\20160706011737_05-07-2016-22-17.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Data\Migrations\20160706011737_05-07-2016-22-17.Designer.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Data\Migrations\ApplicationDbContextModelSnapshot.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Data\Repository\CidadeRepository.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Data\Repository\IRepository.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Data\Repository\Repository.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Data\Repository\TesteRepository.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Helpers\Extensions.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\ApplicationUser.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\Cidade.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\Cliente.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\Frete.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\AccountViewModels\ExternalLoginConfirmationViewModel.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\AccountViewModels\ForgotPasswordViewModel.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\AccountViewModels\LoginViewModel.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\AccountViewModels\RegisterViewModel.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\AccountViewModels\ResetPasswordViewModel.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\AccountViewModels\SendCodeViewModel.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\AccountViewModels\VerifyCodeViewModel.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\AddPhoneNumberViewModel.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\ChangePasswordViewModel.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\ConfigureTwoFactorViewModel.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\FactorViewModel.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\IndexViewModel.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\ManageLoginsViewModel.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\RemoveLoginViewModel.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\SetPasswordViewModel.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\VerifyPhoneNumberViewModel.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Services\IEmailSender.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Services\ISmsSender.cs
-C:\Users\INFORMÁT\Documents\Visual Studio 2015\Projects\br.com.engsoft\src\br.com.engsoft\Services\MessageServices.cs
+--resource:"C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\obj\Debug\netcoreapp1.0\br.com.engsoftdotnet-compile.deps.json",br.com.engsoft.deps.json
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\IApplicationDbContext.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Program.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Startup.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Controllers\AccountController.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Controllers\CidadesController.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Controllers\ClientesController.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Controllers\FretesController.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Controllers\HomeController.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Controllers\ManageController.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Data\ApplicationDbContext.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Data\Migrations\00000000000000_CreateIdentitySchema.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Data\Migrations\00000000000000_CreateIdentitySchema.Designer.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Data\Migrations\20160705041501_br.com.engsoft.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Data\Migrations\20160705041501_br.com.engsoft.Designer.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Data\Migrations\20160705233928_dbmvcrepository.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Data\Migrations\20160705233928_dbmvcrepository.Designer.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Data\Migrations\20160706011141_05-07-2016.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Data\Migrations\20160706011141_05-07-2016.Designer.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Data\Migrations\20160706011737_05-07-2016-22-17.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Data\Migrations\20160706011737_05-07-2016-22-17.Designer.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Data\Migrations\ApplicationDbContextModelSnapshot.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Data\Repository\CidadeRepository.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Data\Repository\IRepository.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Data\Repository\Repository.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Data\Repository\TesteRepository.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Helpers\Extensions.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\ApplicationUser.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\Cidade.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\Cliente.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\Frete.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\Pessoa.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\AccountViewModels\ExternalLoginConfirmationViewModel.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\AccountViewModels\ForgotPasswordViewModel.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\AccountViewModels\LoginViewModel.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\AccountViewModels\RegisterViewModel.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\AccountViewModels\ResetPasswordViewModel.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\AccountViewModels\SendCodeViewModel.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\AccountViewModels\VerifyCodeViewModel.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\AddPhoneNumberViewModel.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\ChangePasswordViewModel.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\ConfigureTwoFactorViewModel.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\FactorViewModel.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\IndexViewModel.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\ManageLoginsViewModel.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\RemoveLoginViewModel.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\SetPasswordViewModel.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Models\ManageViewModels\VerifyPhoneNumberViewModel.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Services\IEmailSender.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Services\ISmsSender.cs
+C:\Users\INFORMÁT\Documents\GitHub\eng-software\br.com.engsoft\src\br.com.engsoft\Services\MessageServices.cs
