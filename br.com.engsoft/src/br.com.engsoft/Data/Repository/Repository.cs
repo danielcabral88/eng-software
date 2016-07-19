@@ -9,7 +9,7 @@ using br.com.engsoft.Helpers;
 
 namespace br.com.engsoft.Data.Repository
 {
-    public class Repository<T> : IRepository<T> where T : class
+    public abstract class Repository<T> : IRepository<T> where T : class
     {
 
         private readonly ApplicationDbContext _context;

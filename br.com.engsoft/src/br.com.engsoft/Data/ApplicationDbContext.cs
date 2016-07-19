@@ -33,7 +33,6 @@ namespace br.com.engsoft.Data
         public DbSet<Frete> Frete { get; set; }
         public DbSet<Cliente> Cliente { get; set; }
         public DbSet<Cidade> Cidade { get; set; }
-        public DbSet<Pessoa> Pessoa { get; set; }
 
     }
 }

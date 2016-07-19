@@ -76,7 +76,7 @@ namespace br.com.engsoft.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("codigo_frete,descricao,peso,valor, cliente.Clientecodigo_cliente, cidade.Cidadecodigo_cidade")] Frete frete)
+        public async Task<IActionResult> Create([Bind("codigo_frete,descricao,peso,valor, cliente.codigo_cliente, cidade.codigo_cidade")] Frete frete)
         {
             if (ModelState.IsValid)
             {
