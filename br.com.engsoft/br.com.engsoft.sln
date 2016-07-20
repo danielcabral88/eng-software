@@ -12,10 +12,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "br.com.engsoft", "src\br.com.engsoft\br.com.engsoft.xproj", "{042EA045-EC60-4069-BE27-E59A8DE52C8B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{DBBA2EB6-7FD8-4043-9F6C-FF52B71A88C7}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "br.com.engsoft.test", "br.com.engsoft.test", "{BFBCBC2D-3D03-4633-93CC-59F8B17A1BE4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +28,5 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{042EA045-EC60-4069-BE27-E59A8DE52C8B} = {5D83CB48-7F5F-4B66-B719-0D82C981E3FF}
-		{BFBCBC2D-3D03-4633-93CC-59F8B17A1BE4} = {DBBA2EB6-7FD8-4043-9F6C-FF52B71A88C7}
 	EndGlobalSection
 EndGlobal
