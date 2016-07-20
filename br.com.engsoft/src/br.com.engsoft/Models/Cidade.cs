@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace br.com.engsoft.Models
 {
-    public class Cidade
+    public class Cidade // Teste de integração contínua
     {
         public Cidade()
         {
